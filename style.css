@@ -1,0 +1,41 @@
+
+
+.header{ 
+
+    border: 20px;
+    background-color: beige;
+    height:100px;
+    width: 100px;
+    margin: 60px;
+    padding: 80px;
+    border: 20px;
+
+}
+.section1{
+    border: 20px;
+    background-color: antiquewhite;
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin: 20px;
+    border: 20px;
+}
+
+.visitors{
+    border: 20px;
+    background-color: antiquewhite;
+    height: 100px;
+    width: 500px;
+    padding: 20px;
+    margin: 20px;
+    border: 20px;
+}
+.contact{
+    border: 20px;
+    background-color: goldenrod;
+    height: 200px;
+    width: 200px;
+    padding: 30px;
+    margin: 30px;
+    border: 30px;
+}
